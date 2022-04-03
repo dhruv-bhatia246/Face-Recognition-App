@@ -2,6 +2,9 @@
 
 I have created a web app to detect faces in images using the Clarifai Api.
 
+Live Link:
+https://dhruv-face-detection-front-end.herokuapp.com/
+
 The web app is made using React, Express, Node JS, CSS, etc.
 
 
@@ -15,7 +18,3 @@ The web app is made using React, Express, Node JS, CSS, etc.
 
 
 <img width="1440" alt="Screenshot 2022-04-03 at 12 30 32 PM" src="https://user-images.githubusercontent.com/71057049/161415857-72a1e068-00c0-4dac-8357-0a55f8d94c55.png">
-
-
-Live Link:
-https://dhruv-face-detection-front-end.herokuapp.com/
